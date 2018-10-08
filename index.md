@@ -1,37 +1,4 @@
 ## Welcome to "HPC, as an identity"!
 
-You can use the [editor on GitHub](https://github.com/neostrider/neostrider.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This initiative is of the belief that more and more engineers should make High Performance Computing (HPC) as one of their core skills. They may be computational physicists, machine learning scientists/engineers etc etc. The list may very well cover the entire spectrum of professsions in the world now. Along with this core topic of theirs, it will be great if they make themselves proficient at HPC. We believe that engineers with this combination of skills, will have a productive and sustainable career path.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neostrider/neostrider.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
