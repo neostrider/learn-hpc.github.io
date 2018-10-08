@@ -9,3 +9,5 @@ Here are some useful books:
 [Professional CUDA C Programming](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/ref=sr_1_1?s=books&ie=UTF8&qid=1538982898&sr=1-1&keywords=professional+cuda+c+programming)
 
 [Introduction to Parallel Algorithms](https://www.amazon.com/Introduction-Parallel-Algorithms-Joseph-JaJa/dp/0201548569/ref=sr_1_1?s=books&ie=UTF8&qid=1538982987&sr=1-1&keywords=parallel+algorithms+jaja)
+
+[Parallel Programming in C with OpenMP and MPI](https://www.amazon.com/Parallel-Programming-C-MPI-OpenMP/dp/0070582017/ref=sr_1_1?s=books&ie=UTF8&qid=1538985737&sr=1-1&keywords=openmp+and+mpi+c+programming)
