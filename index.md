@@ -6,7 +6,7 @@ Here are some useful books:
 
 [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 
-[Performance Optimization of Nmerically Intensive Codes](https://www.amazon.com/Performance-Optimization-Numerically-Intensive-Environments/dp/0898714842)
+[Performance Optimization of Numerically Intensive Codes](https://www.amazon.com/Performance-Optimization-Numerically-Intensive-Environments/dp/0898714842)
 
 [Professional CUDA C Programming](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/ref=sr_1_1?s=books&ie=UTF8&qid=1538982898&sr=1-1&keywords=professional+cuda+c+programming)
 
