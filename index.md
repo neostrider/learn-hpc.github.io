@@ -5,5 +5,7 @@ This initiative is of the belief that more and more engineers should make High P
 Here are some useful books:
 
 [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+
 [Professional CUDA C Programming](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/ref=sr_1_1?s=books&ie=UTF8&qid=1538982898&sr=1-1&keywords=professional+cuda+c+programming)
+
 [Introduction to Parallel Algorithms](https://www.amazon.com/Introduction-Parallel-Algorithms-Joseph-JaJa/dp/0201548569/ref=sr_1_1?s=books&ie=UTF8&qid=1538982987&sr=1-1&keywords=parallel+algorithms+jaja)
