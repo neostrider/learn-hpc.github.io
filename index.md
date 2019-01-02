@@ -1,6 +1,8 @@
-## Welcome to "HPC, as an identity"!
+## Welcome to "Programming Light"!
 
-This initiative is of the belief that more and more engineers should make High Performance Computing (HPC) as one of their core skills. They may be computational physicists or machine learning scientists/engineers etc etc. The list may very well cover the entire spectrum of scientific/technical professsions in the world now. Along with their core topic, it will be great if they make themselves proficient at HPC. We believe that engineers with this combination of skills, will have a productive and sustainable career path.
+Here, we will learn about physics, math, computer systems and programming by studying and implementing algorithms for physically based rendering and related concepts.
+
+This initiative is of the broader belief that more and more engineers should make High Performance Computing (HPC) as one of their core skills. They may be computational physicists, machine learning scientists/engineers etc etc. The list may very well cover the entire spectrum of scientific/technical professsions in the future world. Along with their core topic, it will be great if they make themselves proficient at HPC. We believe that engineers with this combination of skills, will have a productive and sustainable career path.
 
 Here are some useful books:
 
