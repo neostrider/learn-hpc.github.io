@@ -1,5 +1,5 @@
 ## Welcome to my web page!
 
-I am a scientific software engineer with experience in applied machine learning: image processing, computer vision and other areas.
+I am a software engineer with experience in visual computing and applied machine learning: image processing, computer vision and other areas.
 
-I have interest and experience in optimizing code based on computer architecture.
+Through these projects and independently, I pursue my interest in high-performance computing.
